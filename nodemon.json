@@ -1,0 +1,10 @@
+{
+    "env": {
+        "USER": "ashutoshpkd",
+        "PASSWORD": "naruto",
+        "DB": "rest-api-dev",
+        "ACCESS_TOKEN_SECRET": "CaptainLevi@123Ashutosh@123CaptainLevi@123CHARUL@12345McQueen@123.",
+        "REFRESH_TOKEN_SECRET": "Ashutosh@123CaptainLevi@123CHARUL@12345McQueen@123.",
+        "PORT": 5050
+    }
+}
